@@ -14,7 +14,7 @@ ul{
     font-size: large;
 }
 
-.menu li a{
+li a {
     display: block;
     width: 60px;
     color: white;
@@ -22,3 +22,4 @@ ul{
     text-decoration: none;
     text-align: center;
 }
+

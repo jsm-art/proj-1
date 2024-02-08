@@ -1,0 +1,28 @@
+body {
+    background-image: url(../media/images/frutiger\ aero\ wallpaper.jpg);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 5px aliceblue;
+}
+
+ul {
+    text-align: center;
+    color: white;
+    font-size: large;
+}
+
+li a {
+    display: block;
+    width: 60px;
+    color: white;
+    padding: 16px 16px;
+    text-decoration: none;
+    text-align: center;
+}
+
+p{
+    color: white;
+}
